@@ -1,5 +1,4 @@
 from utils import arrs
-
 import pytest
 def test2_get():
     with pytest.raises(IndexError):
